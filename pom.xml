@@ -23,6 +23,11 @@
             <artifactId>log4j-api</artifactId>
             <version>2.14.0</version>
         </dependency>
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-controls</artifactId>
+            <version>1.5.3</version>
+        </dependency>
     </dependencies>
 
 </project>
