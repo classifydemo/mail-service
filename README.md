@@ -1,4 +1,4 @@
 # mail-service
 
 
-This is a mail service.
+This is a Mail service.
